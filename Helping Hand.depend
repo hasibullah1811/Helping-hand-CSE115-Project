@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1524673174 source:f:\homework\lab\helping hand\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
